@@ -1122,7 +1122,7 @@
                 $(document).trigger('click');
                 return false;
             });
-            if (window.location.href.includes('go=fonc')) {
+            if (window.location.href.includes('fonc')) {
                 $('#foncLink').trigger('click');
             }
         });
