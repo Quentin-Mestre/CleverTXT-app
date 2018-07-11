@@ -39,7 +39,7 @@
     <div class="menu" style="position:absolute; z-index:5; width: 100%">
         <div class="container mx-auto">
             <nav class="navbar navbar-expand-lg navbar-dark">
-                <a class="navbar-brand mr-auto" href="homepage.php">
+                <a class="navbar-brand mr-auto" href="index.php">
                     <img class="img-fluid" src="images/Logo/Logo.png" alt="CleverTXT" style="height: 3rem;">
                 </a>
                 <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#push"
@@ -50,7 +50,7 @@
                 <div class="collapse navbar-collapse" id="push" role="navigation">
                     <ul class="navbar-nav ml-auto">
                         <li class="nav-item mr-3 hidden-lg-up">
-                            <a class="nav-link" href="homepage.php">Accueil</a>
+                            <a class="nav-link" href="index.php">Accueil</a>
                         </li>
                         <li class="nav-item mr-3">
                             <a id="foncLink" class="nav-link" href="#fonc">Fonctionnalités</a>

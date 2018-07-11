@@ -37,7 +37,7 @@
     ========================================================================== -->
     <nav id="navmenu" class="navbar navbar-expand-lg navbar-light">
         <div class="container">
-            <a class="navbar-brand" href="homepage.php">
+            <a class="navbar-brand" href="index.php">
                 <img src="images/Logo/clevertxt-color-horizontal%20copy%202.png" alt="CleverTXT">
             </a>
             <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#push"
@@ -48,9 +48,9 @@
             <div class="collapse navbar-collapse" id="push" role="navigation">
                 <ul class="navbar-nav ml-auto">
                     <li class="nav-item  mr-3 hidden-lg-up">
-                        <a class="nav-link" href="homepage.php">Accueil</a>
+                        <a class="nav-link" href="index.php">Accueil</a>
                     </li>
-                    <li class="nav-item mr-3"><a class="nav-link" href="homepage.php?go=fonc">Fonctionnalités</a></li>
+                    <li class="nav-item mr-3"><a class="nav-link" href="index.php?go=fonc">Fonctionnalités</a></li>
                     <li class="nav-item mr-3"><a class="nav-link" href="tarifs.php">Tarifs</a></li>
                     <li class="nav-item mr-3 hidden-md-down">
                         <a href="https://app.clevertxt.com/login" role="button" class="mb-2 btn btn-outline btn-out-ro">
