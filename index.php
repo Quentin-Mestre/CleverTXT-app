@@ -40,7 +40,7 @@
         <div class="container mx-auto">
             <nav class="navbar navbar-expand-lg navbar-dark">
                 <a class="navbar-brand mr-auto" href="index.php">
-                    <img class="img-fluid" src="images/Logo/Logo.png" alt="CleverTXT" style="height: 3rem;">
+                    <img class="img-fluid" src="images/Logo/Logo.png" title="CleverTXT" alt="CleverTXT" style="height: 3rem;">
                 </a>
                 <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#push"
                         aria-controls="push" aria-expanded="false"
@@ -110,7 +110,7 @@
                             <!--                            </div>-->
                         </div>
                         <div class="col-sm-5 hidden-md-down device">
-                            <img src="images/Carousel/iphone-shape.png" class="img-fluid float-right">
+                            <img src="images/Carousel/iphone-shape.png" class="img-fluid float-right" title="iphone-shape" alt="">
                             <div class="device-screen">
                                 <div class="device-ui">
                                     <div class="device-ui-status-bar">
@@ -210,7 +210,7 @@
                             <!--                            </div>-->
                         </div>
                         <div class="col-sm-5 hidden-md-down">
-                            <img src="images/Carousel/iphone-shape.png" class="img-fluid float-right">
+                            <img src="images/Carousel/iphone-shape.png" class="img-fluid float-right" title="iphone-shape" alt="">
                             <div class="device-screen">
                                 <div class="device-ui">
                                     <div class="device-ui-status-bar">
@@ -299,7 +299,7 @@
                             <!--                            </div>-->
                         </div>
                         <div class="col-sm-5 hidden-md-down">
-                            <img src="images/Carousel/iphone-shape.png" class="img-fluid float-right">
+                            <img src="images/Carousel/iphone-shape.png" class="img-fluid float-right" title="iphone-shape" alt="">
                             <div class="device-screen">
                                 <div class="device-ui">
                                     <div class="device-ui-status-bar">
@@ -390,7 +390,7 @@
                             <!--                            </div>-->
                         </div>
                         <div class="col-sm-5 hidden-md-down">
-                            <img src="images/Carousel/iphone-shape.png" class="img-fluid float-right">
+                            <img src="images/Carousel/iphone-shape.png" class="img-fluid float-right" title="iphone-shape" alt="">
                             <div class="device-screen">
                                 <div class="device-ui">
                                     <div class="device-ui-status-bar">
@@ -478,7 +478,7 @@
                             <!--                            </div>-->
                         </div>
                         <div class="col-sm-5 hidden-md-down">
-                            <img src="images/Carousel/iphone-shape.png" class="img-fluid float-right">
+                            <img src="images/Carousel/iphone-shape.png" class="img-fluid float-right" title="iphone-shape" alt="">
                             <div class="device-screen">
                                 <div class="device-ui">
                                     <div class="device-ui-status-bar">
@@ -580,7 +580,7 @@
                             <!--                            </div>-->
                         </div>
                         <div class="col-sm-5 hidden-md-down">
-                            <img src="images/Carousel/iphone-shape.png" class="img-fluid float-right">
+                            <img src="images/Carousel/iphone-shape.png" class="img-fluid float-right" title="iphone-shape" alt="">
                             <div class="device-screen">
                                 <div class="device-ui">
                                     <div class="device-ui-status-bar">
@@ -684,31 +684,29 @@
             <div class="col-md-12 py-3">
                 <div class="d-flex flex-wrap justify-content-center align-items-center">
                     <div class="p-3 clients">
-                        <img class="img-fluid d-block mx-auto" src="images/Client/2000px-KPMG.svg@2x.png" alt="KPMG">
+                        <img class="img-fluid d-block mx-auto" src="images/Client/2000px-KPMG.svg@2x.png" title="KPMG" alt="KPMG">
                     </div>
                     <div class="p-3 clients">
                         <img class="img-fluid d-block mx-auto" src="images/Client/Banquepopulaire_logo.svg@2x.png"
-                             alt="KPMG">
+                             title="Banque Populaire" alt="Banque Populaire">
                     </div>
                     <div class="p-3 clients">
-                        <img class="img-fluid d-block mx-auto" src="images/Client/Keolis@2x.png" alt="KPMG">
+                        <img class="img-fluid d-block mx-auto" src="images/Client/Keolis@2x.png" title="Keolis" alt="Keolis">
                     </div>
                     <div class="p-3 clients">
-                        <img class="img-fluid d-block mx-auto" src="images/Client/1020px-Darty.svg@2x.png" alt="KPMG">
+                        <img class="img-fluid d-block mx-auto" src="images/Client/1020px-Darty.svg@2x.png" title="Darty" alt="Darty">
                     </div>
                     <div class="p-3 clients">
-                        <img class="img-fluid d-block mx-auto" src="images/Client/280px-BMW.svg@2x.png" alt="KPMG">
+                        <img class="img-fluid d-block mx-auto" src="images/Client/280px-BMW.svg@2x.png" title="BMW" alt="BMW">
                     </div>
                     <div class="p-3 clients">
-                        <img class="img-fluid d-block mx-auto" src="images/Client/1280px-Engie_logo.svg@2x.png"
-                             alt="KPMG">
+                        <img class="img-fluid d-block mx-auto" src="images/Client/1280px-Engie_logo.svg@2x.png" title="Engie" alt="Engie">
                     </div>
                     <div class="p-3 clients">
-                        <img class="img-fluid d-block mx-auto" src="images/Client/Crédit_Agricole@2x.png" alt="KPMG">
+                        <img class="img-fluid d-block mx-auto" src="images/Client/Crédit_Agricole@2x.png" title="Crédit Agricole" alt="Crédit Agricole">
                     </div>
                     <div class="p-3 clients">
-                        <img class="img-fluid d-block mx-auto" src="images/Client/Logo-Page-Fb-1000x500@2x.png"
-                             alt="KPMG">
+                        <img class="img-fluid d-block mx-auto" src="images/Client/Logo-Page-Fb-1000x500@2x.png" title="Valtus" alt="Valtus">
                     </div>
                 </div>
             </div>
@@ -725,9 +723,7 @@
             </div>
             <div class="col-md-12 py-3">
                 <img class="img-fluid" src="images/Homepage/repondantsx2.gif"
-                     alt="Courbe de collecte de données">
-                <!--            <img class="img-fluid" src="images/Homepage/illustration-donnees@2x.png"-->
-                <!--                 alt="Courbe de collecte de données">-->
+                     title="Collecte de données" alt="">
             </div>
         </div>
     </div>
@@ -773,27 +769,27 @@
             <div class="col-md tab-content justify-content-center align-items-center">
                 <div class="tab-pane h-100 fade show active" id="typo1" role="tabpanel">
                     <img class="img-fluid d-block mx-auto" role="tabpanel"
-                         src="images/Homepage/Typo/illustration-typologie@2x.png" alt="NPS">
+                         src="images/Homepage/Typo/illustration-typologie@2x.png" title="NPS" alt="NPS: Bonjour Mme Martin, quelle est la probabilité que vous recommandiez notre service à un proche ou un collègue ?">
                 </div>
                 <div class="tab-pane h-100 fade" id="typo2" role="tabpanel">
                     <img class="img-fluid d-block mx-auto" role="tabpanel"
-                         src="images/Homepage/Typo/illustration-typologie%202@2x.png" alt="TXT">
+                         src="images/Homepage/Typo/illustration-typologie%202@2x.png" title="TXT" alt="TXT: Pouvez-vous nous expliquer en quelques mots cette note de recommandation ?">
                 </div>
                 <div class="tab-pane h-100 fade" id="typo3" role="tabpanel">
                     <img class="img-fluid d-block mx-auto" role="tabpanel"
-                         src="images/Homepage/Typo/illustration-typologie%203@2x.png" alt="NOT">
+                         src="images/Homepage/Typo/illustration-typologie%203@2x.png" title="NOT" alt="NOT: Sur une échelle de 1 à 5, quelle ote donneriez-vous à la conférence que vous venez de suivre ?">
                 </div>
                 <div class="tab-pane h-100 fade" id="typo4" role="tabpanel">
                     <img class="img-fluid d-block mx-auto" role="tabpanel"
-                         src="images/Homepage/Typo/illustration-typologie%204@2x.png" alt="NB">
+                         src="images/Homepage/Typo/illustration-typologie%204@2x.png" title="NB" alt="NB: Quel est votre âge ?">
                 </div>
                 <div class="tab-pane h-100 fade" id="typo5" role="tabpanel">
                     <img class="img-fluid d-block mx-auto" role="tabpanel"
-                         src="images/Homepage/Typo/illustration-typologie%205@2x.png" alt="O/N">
+                         src="images/Homepage/Typo/illustration-typologie%205@2x.png" title="O/N" alt="O/N: Souhaitez-vous participer à notre séminaire ? Répondez Oui ou Non">
                 </div>
                 <div class="tab-pane h-100 fade" id="typo6" role="tabpanel">
                     <img class="img-fluid d-block mx-auto" role="tabpanel"
-                         src="images/Homepage/Typo/illustration-typologie%206@2x.png" alt="QCM">
+                         src="images/Homepage/Typo/illustration-typologie%206@2x.png" title="QCM" alt="QCM: Quelle est votre couleur préférée ? 1.Bleu 2.Rouge 3.Jaune 4.Vert 5.Noir">
                 </div>
             </div>
         </div>
@@ -811,7 +807,8 @@
                 <h4 class="text-center">Net Promoter Score</h4>
             </div>
             <div class="col-md-12">
-                <img src="images/Homepage/Typo/illustration-typologie@2x.png" class="img-fluid d-block mx-auto">
+                <img class="img-fluid d-block mx-auto" role="tabpanel"
+                     src="images/Homepage/Typo/illustration-typologie@2x.png" title="NPS" alt="NPS: Bonjour Mme Martin, quelle est la probabilité que vous recommandiez notre service à un proche ou un collègue ?">
             </div>
         </div>
         <div class="row">
@@ -819,7 +816,8 @@
                 <h4 class="text-center">Texte</h4>
             </div>
             <div class="col-md-12">
-                <img src="images/Homepage/Typo/illustration-typologie%202@2x.png" class="img-fluid d-block mx-auto">
+                <img class="img-fluid d-block mx-auto" role="tabpanel"
+                     src="images/Homepage/Typo/illustration-typologie%202@2x.png" title="TXT" alt="TXT: Pouvez-vous nous expliquer en quelques mots cette note de recommandation ?">
             </div>
         </div>
         <div class="row">
@@ -827,7 +825,8 @@
                 <h4 class="text-center">Notation</h4>
             </div>
             <div class="col-md-12">
-                <img src="images/Homepage/Typo/illustration-typologie%203@2x.png" class="img-fluid d-block mx-auto">
+                <img class="img-fluid d-block mx-auto" role="tabpanel"
+                     src="images/Homepage/Typo/illustration-typologie%203@2x.png" title="NOT" alt="NOT: Sur une échelle de 1 à 5, quelle ote donneriez-vous à la conférence que vous venez de suivre ?">
             </div>
         </div>
         <div class="row">
@@ -835,7 +834,8 @@
                 <h4 class="text-center">Nombre</h4>
             </div>
             <div class="col-md-12">
-                <img src="images/Homepage/Typo/illustration-typologie%204@2x.png" class="img-fluid d-block mx-auto">
+                <img class="img-fluid d-block mx-auto" role="tabpanel"
+                     src="images/Homepage/Typo/illustration-typologie%204@2x.png" title="NB" alt="NB: Quel est votre âge ?">
             </div>
         </div>
         <div class="row">
@@ -843,15 +843,17 @@
                 <h4 class="text-center">Oui/Non</h4>
             </div>
             <div class="col-md-12">
-                <img src="images/Homepage/Typo/illustration-typologie%205@2x.png" class="img-fluid d-block mx-auto">
+                <img class="img-fluid d-block mx-auto" role="tabpanel"
+                     src="images/Homepage/Typo/illustration-typologie%205@2x.png" title="O/N" alt="O/N: Souhaitez-vous participer à notre séminaire ? Répondez Oui ou Non">
             </div>
         </div>
         <div class="row">
             <div class="col-lg-12">
-                <h4 class="text-center">Choix</h4>
+                <h4 class="text-center">Choix Multiple</h4>
             </div>
             <div class="col-md-12">
-                <img src="images/Homepage/Typo/illustration-typologie%206@2x.png" class="img-fluid d-block mx-auto">
+                <img class="img-fluid d-block mx-auto" role="tabpanel"
+                     src="images/Homepage/Typo/illustration-typologie%206@2x.png" title="QCM" alt="QCM: Quelle est votre couleur préférée ? 1.Bleu 2.Rouge 3.Jaune 4.Vert 5.Noir">
             </div>
         </div>
     </div>
@@ -868,15 +870,15 @@
             <div class="col-md tab-content d-flex justify-content-center align-items-stretch">
                 <div class="tab-pane fade align-self-stretch show active" id="scenar1" role="tabpanel">
                     <img class="img-fluid d-block mx-auto" role="tabpanel"
-                         src="images/Homepage/Scenar/illustration-logique@2x.png" alt="NPS">
+                         src="images/Homepage/Scenar/illustration-logique@2x.png" title="Scénario intelligent : Logique" alt="">
                 </div>
                 <div class="tab-pane fade align-self-stretch" id="scenar2" role="tabpanel">
                     <img class="img-fluid d-block mx-auto" role="tabpanel"
-                         src="images/Homepage/Scenar/illustration-personnalisation@2x.png" alt="NPS">
+                         src="images/Homepage/Scenar/illustration-personnalisation@2x.png" title="Scénario intelligent : Personnalisation" alt="">
                 </div>
                 <div class="tab-pane fade align-self-stretch" id="scenar3" role="tabpanel">
                     <img class="img-fluid d-block mx-auto" role="tabpanel"
-                         src="images/Homepage/Scenar/illustration-sms-complementaire@2x.png" alt="NPS">
+                         src="images/Homepage/Scenar/illustration-sms-complementaire@2x.png" title="Scénario intelligent : SMS Complémentaire" alt="">
                 </div>
             </div>
         </div>
@@ -922,7 +924,7 @@
             </div>
             <div class="col-md-12">
                 <img class="img-fluid d-block mx-auto" role="tabpanel"
-                     src="images/Homepage/Scenar/illustration-logique@2x.png" alt="NPS">
+                     src="images/Homepage/Scenar/illustration-logique@2x.png" title="Scénario intelligent : Logique" alt="">
             </div>
         </div>
         <div class="row py-4 justify-content-center">
@@ -932,7 +934,7 @@
             </div>
             <div class="col-md-12">
                 <img class="img-fluid d-block mx-auto" role="tabpanel"
-                     src="images/Homepage/Scenar/illustration-personnalisation@2x.png" alt="NPS">
+                     src="images/Homepage/Scenar/illustration-logique@2x.png" title="Scénario intelligent : Personnalisation" alt="">
             </div>
         </div>
         <div class="row py-4 justify-content-center">
@@ -942,7 +944,7 @@
             </div>
             <div class="col-md-12">
                 <img class="img-fluid d-block mx-auto" role="tabpanel"
-                     src="images/Homepage/Scenar/illustration-sms-complementaire@2x.png" alt="NPS">
+                     src="images/Homepage/Scenar/illustration-logique@2x.png" title="Scénario intelligent : SMS Complémentaire" alt="">
             </div>
         </div>
     </div>
@@ -957,8 +959,7 @@
                     combinaisons possibles de votre scénario.</h5>
             </div>
             <div class="col-md">
-                <img class="img-fluid d-block mx-auto" src="images/Homepage/illustration-simulateur@2x.png"
-                     alt="Courbe de collecte de données">
+                <img class="img-fluid d-block mx-auto" src="images/Homepage/illustration-simulateur@2x.png" title="Simulateur" alt="">
             </div>
         </div>
     </div>
@@ -968,7 +969,7 @@
         <div class="container" style="width: 90%; max-width: 1500px">
             <div class="py-5 d-md-flex flex-md-row align-items-center justify-content-center">
                 <div class="col-md-2 p-2 mx-auto" style="max-width: 150px">
-                    <img class="img-fluid d-block mx-auto" src="images/Footer/icon-test-beta@2x.png">
+                    <img class="img-fluid d-block mx-auto" src="images/Footer/icon-test-beta@2x.png" title="Logo bêta" alt="bêta">
                 </div>
                 <div class="col-md-7 text-left p-2">
                     <h2>Essayer gratuitement CleverTXT</h2>
@@ -977,17 +978,17 @@
                 <div class="col-md-4 p-2">
                     <a href="https://app.clevertxt.com/register" role="button"
                        class="btn btn-lg btn-block btn-default btn-grad-roor">
-            <span class="mx-auto text-center">
-              Créez un compte bêta dès maintenant
-            </span>
-                        <img class="ml-2 icon" src="images/icon-arrow-white.svg">
+			            <span class="mx-auto text-center">
+			              Créez un compte bêta dès maintenant
+			            </span>
+                        <img class="ml-2 icon" src="images/icon-arrow-white.svg" title="right arrow" alt="">
                     </a>
                 </div>
             </div>
 
             <div class="my-5 d-md-flex flex-md-row align-items-center justify-content-center">
                 <div class="col-md-2 p-2 mx-auto" style="max-width: 150px">
-                    <img class="img-fluid d-block mx-auto" src="images/Footer/icon-demo@2x.png">
+                    <img class="img-fluid d-block mx-auto" src="images/Footer/icon-demo@2x.png" title="Démo" alt="">
                 </div>
                 <div class="col-md-7 text-left p-2">
                     <h2>Demander une démo CleverTXT</h2>
@@ -995,9 +996,10 @@
                     </p>
                 </div>
                 <div class="col-md-4 p-2">
-                    <a href="#" role="button" class="btn btn-lg btn-block btn-default btn-blanc-or">Demander une démo
-                        <img
-                                class="ml-2 icon" src="images/icon-arrow-orange.svg"></a>
+                    <a href="#" role="button" class="btn btn-lg btn-block btn-default btn-blanc-or">
+                    	Demander une démo
+                        <img class="ml-2 icon" src="images/icon-arrow-orange.svg" title="right arrow" alt="">
+                    </a>
                 </div>
             </div>
 
@@ -1019,8 +1021,12 @@
                     <a href="#" class="nav-link">Centres d'aide</a>
                 </nav>
                 <div class="nav ml-auto align-self-center p-2">
-                    <a href="#" class="mr-5 nav-item"><img src="images/Footer/twitter-icon.svg" alt="Twitter"></a>
-                    <a href="#" class="nav-item"><img src="images/Footer/linkedin-icon.svg" alt="LinkedIn"></a>
+                    <a href="#" class="mr-5 nav-item">
+                    	<img src="images/Footer/twitter-icon.svg" title="Twitter" alt="">
+                    </a>
+                    <a href="#" class="nav-item">
+                    	<img src="images/Footer/linkedin-icon.svg" title="LinkedIn" alt="">
+                    </a>
                 </div>
             </div>
         </div>

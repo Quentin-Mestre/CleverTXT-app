@@ -38,7 +38,7 @@
     <nav id="navmenu" class="navbar navbar-expand-lg navbar-light">
         <div class="container">
             <a class="navbar-brand" href="index.php">
-                <img src="images/Logo/clevertxt-color-horizontal%20copy%202.png" alt="CleverTXT">
+                <img src="images/Logo/clevertxt-color-horizontal%20copy%202.png" title="CleverTXT" alt="CleverTXT">
             </a>
             <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#push"
                     aria-controls="push" aria-expanded="false"
@@ -109,7 +109,7 @@
         <div class="container" style="width: 90%; max-width: 1500px">
             <div class="py-5 d-md-flex flex-md-row align-items-center justify-content-center">
                 <div class="col-md-2 p-2 mx-auto" style="max-width: 150px">
-                    <img class="img-fluid d-block mx-auto" src="images/Footer/icon-test-beta@2x.png">
+                    <img class="img-fluid d-block mx-auto" src="images/Footer/icon-test-beta@2x.png" title="Logo bêta" alt="bêta">
                 </div>
                 <div class="col-md-7 text-left p-2">
                     <h2>Essayer gratuitement CleverTXT</h2>
@@ -118,17 +118,17 @@
                 <div class="col-md-4 p-2">
                     <a href="https://app.clevertxt.com/register" role="button"
                        class="btn btn-lg btn-block btn-default btn-grad-roor">
-            <span class="mx-auto text-center">
-              Créez un compte bêta dès maintenant
-            </span>
-                        <img class="ml-2 icon" src="images/icon-arrow-white.svg">
+			            <span class="mx-auto text-center">
+			              Créez un compte bêta dès maintenant
+			            </span>
+                        <img class="ml-2 icon" src="images/icon-arrow-white.svg" title="right arrow" alt="">
                     </a>
                 </div>
             </div>
 
             <div class="my-5 d-md-flex flex-md-row align-items-center justify-content-center">
                 <div class="col-md-2 p-2 mx-auto" style="max-width: 150px">
-                    <img class="img-fluid d-block mx-auto" src="images/Footer/icon-demo@2x.png">
+                    <img class="img-fluid d-block mx-auto" src="images/Footer/icon-demo@2x.png" title="Démo" alt="">
                 </div>
                 <div class="col-md-7 text-left p-2">
                     <h2>Demander une démo CleverTXT</h2>
@@ -136,9 +136,10 @@
                     </p>
                 </div>
                 <div class="col-md-4 p-2">
-                    <a href="#" role="button" class="btn btn-lg btn-block btn-default btn-blanc-or">Demander une démo
-                        <img
-                                class="ml-2 icon" src="images/icon-arrow-orange.svg"></a>
+                    <a href="#" role="button" class="btn btn-lg btn-block btn-default btn-blanc-or">
+                    	Demander une démo
+                        <img class="ml-2 icon" src="images/icon-arrow-orange.svg" title="right arrow" alt="">
+                    </a>
                 </div>
             </div>
 
@@ -160,8 +161,12 @@
                     <a href="#" class="nav-link">Centres d'aide</a>
                 </nav>
                 <div class="nav ml-auto align-self-center p-2">
-                    <a href="#" class="mr-5 nav-item"><img src="images/Footer/twitter-icon.svg" alt="Twitter"></a>
-                    <a href="#" class="nav-item"><img src="images/Footer/linkedin-icon.svg" alt="LinkedIn"></a>
+                    <a href="#" class="mr-5 nav-item">
+                    	<img src="images/Footer/twitter-icon.svg" title="Twitter" alt="">
+                    </a>
+                    <a href="#" class="nav-item">
+                    	<img src="images/Footer/linkedin-icon.svg" title="LinkedIn" alt="">
+                    </a>
                 </div>
             </div>
         </div>
