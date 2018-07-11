@@ -8,7 +8,7 @@
 ?>
 
 <!DOCTYPE html>
-<html lang="en">
+<html lang="fr">
 <head>
     <!-- Theme Made By www.w3schools.com - No Copyright -->
     <title>
